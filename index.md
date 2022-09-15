@@ -1,4 +1,4 @@
-# Termos de Serviço & Privacidade
+## Termos de Serviço & Privacidade
 
 Termos de serviço
 
