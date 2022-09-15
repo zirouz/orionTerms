@@ -4,7 +4,9 @@ Termos de serviço
 
 Ultima modificação: 15 de setembro de 2022
 
-1.0. Ao continuar a utilizar o Orion você concorda com tudo citado abaixo:
+<hr>
+
+**1.0.** Ao continuar a utilizar o Orion você concorda com tudo citado abaixo:
 
 Você é o único responsável por qualquer texto, imagem, gifs, áudio, video, arquivos e etc que você enviar ao Orion;
 Tentar burlar, aproveitar de bugs/falhas no sistema do Orion pode fazer você ser bloqueado de usar os comandos do bot (blacklist);
@@ -14,4 +16,6 @@ Os seguintes dados podem ser coletados: [Usuário]: Nome, Tag, ID, Comandos exec
 
 Nenhum dado citado acima será distribuído para terceiros.
 
-1.1. Você concorda em não difamar ou prejudicar a imagem do Orion, Zirou ou outro serviço relacionado, você pode ser suspenso de usar o Orion por quaisquer motivo, que você não poderá recuperar dados caso sejam perdidos, e que você está de acordo com tudo que está nos termos de uso.
+<hr>
+
+**1.1.** Você concorda em não difamar ou prejudicar a imagem do Orion, Zirou ou outro serviço relacionado, você pode ser suspenso de usar o Orion por quaisquer motivo, que você não poderá recuperar dados caso sejam perdidos, e que você está de acordo com tudo que está nos termos de uso.
