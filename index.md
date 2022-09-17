@@ -2,7 +2,8 @@
 
 Termos de serviço
 
-Ultima modificação: 15 de setembro de 2022
+Ultima modificação: 15/09/2022
+Efetividade: 15/09/2022
 
 <hr>
 
