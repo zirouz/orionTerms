@@ -33,13 +33,11 @@ Nenhum dado citado acima será distribuído para terceiros.
 
 Como o Orion é um bot no Discord, o bot é obrigado a seguir todas as declarações em Termos de Serviço do Discord. As principais regras de uso são, mas não se limitam a:
 
-° Seu servidor deve seguir todas as declarações estabelecidas pelo Discord, por exemplo, limpar o nome do servidor e o ícone do servidor
+° Seu servidor deve seguir todas as declarações estabelecidas pelo Discord, por exemplo, o nome e o icone do servidor devem ser limpos
 
 ° A mensagem promocional do seu servidor deve seguir todas as declarações dos Termos de Serviço e Diretrizes da Comunidade do Discord
 
 ° Todas as ações que você faz usando o OrionBot não devem fazer o OrionBot violar termos de serviço do Discord, por exemplo, o uso moderado de comando (Não dar rate-limit no bot)
-
-° Você concorda em não difamar ou prejudicar a imagem do Orion, Zirou ou outro serviço relacionado, você pode ser suspenso de usar o Orion por quaisquer motivo, que você não poderá recuperar dados caso sejam perdidos, e que você está de acordo com tudo que está nos termos de uso.
 
 <h3> Exploits, bugs e erros </h3>
 
@@ -52,7 +50,7 @@ Você é obrigado:
 
 ° não inserir ou transmitir conteúdo que contenha vírus de software ou qualquer outro código de computador, arquivos ou programas que sejam projetados ou destinados a interromper, danificar ou limitar o funcionamento de qualquer software, hardware ou equipamento de telecomunicações ou danificar ou obter acesso não autorizado a quaisquer dados ou outras informações de terceiros;
 
-° não inserir ou transmitir conteúdo que contenha qualquer coisa que possa ser usada para determinar ou alterar a arquitetura do OrionBot, ou que possa ser usada para descompilar, desmontar ou reverter o engenheiro OrionBot;
+° não inserir ou transmitir conteúdo que contenha qualquer coisa que possa ser usada para determinar ou alterar a arquitetura do OrionBot, ou que possa ser usada para descompilar, desmontar ou fazer engenharia reversa no OrionBot;
 
 ° não coletar dados pessoais sobre outros usuários (para qualquer finalidade);
 
